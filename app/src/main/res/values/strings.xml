@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">System Assesment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="posts">Posts</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="logout">Logout</string>
+    <string name="empty_posts_title">No posts found</string>
+    <string name="empty_posts_subtitle">There are no posts to show right now. Try again when you are online.</string>
+    <string name="empty_favorites_title">No favorites yet</string>
+    <string name="empty_favorites_subtitle">Favorite posts from your feed and they will show up here.</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_placeholder">name@company.com</string>
+    <string name="password_placeholder">••••••••</string>
+    <string name="password_validation_error">Password must be between 8 and 15 characters.</string>
+    <string name="keep_signed_in">Keep me signed in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="view_comments">View comments</string>
+    <string name="comments">Comments</string>
+    <string name="no_comments_found">No comments found</string>
+    <string name="close">Close</string>
+</resources>
